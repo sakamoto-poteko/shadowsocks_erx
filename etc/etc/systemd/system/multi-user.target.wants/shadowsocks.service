@@ -1,0 +1,8 @@
+[Unit]
+
+[Service]
+
+
+[Install]
+WantedBy=multi-user.target
+Alias=shadowsocks.service
